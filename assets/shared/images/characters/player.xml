@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Player.png">
+<SubTexture name="Player down0000" x="0" y="0" width="382" height="485" frameX="0" frameY="0" frameWidth="382" frameHeight="485" />
+<SubTexture name="Player down0001" x="382" y="0" width="382" height="485" frameX="0" frameY="0" frameWidth="382" frameHeight="485" />
+<SubTexture name="Player left0000" x="764" y="0" width="429" height="451" frameX="0" frameY="0" frameWidth="429" frameHeight="451" />
+<SubTexture name="Player left0001" x="0" y="485" width="429" height="451" frameX="0" frameY="0" frameWidth="429" frameHeight="451" />
+<SubTexture name="Player right0000" x="429" y="485" width="396" height="451" frameX="0" frameY="0" frameWidth="396" frameHeight="451" />
+<SubTexture name="Player right0001" x="825" y="485" width="386" height="451" frameX="0" frameY="0" frameWidth="386" frameHeight="451" />
+<SubTexture name="Player right0002" x="0" y="936" width="396" height="451" frameX="0" frameY="0" frameWidth="396" frameHeight="451" />
+<SubTexture name="Player up0000" x="396" y="936" width="377" height="451" frameX="0" frameY="0" frameWidth="377" frameHeight="451" />
+<SubTexture name="Player up0001" x="773" y="936" width="377" height="451" frameX="0" frameY="0" frameWidth="377" frameHeight="451" />
+<SubTexture name="Player Idle Dance0000" x="42" y="1379" width="416" height="459" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Player Idle Dance0001" x="42" y="1379" width="416" height="459" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Player Idle Dance0012" x="42" y="1379" width="416" height="459" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Player Idle Dance0002" x="480" y="1384" width="444" height="424" frameX="0" frameY="0" frameWidth="433" frameHeight="763" />
+<SubTexture name="Player Idle Dance0003" x="480" y="1384" width="444" height="424" frameX="0" frameY="0" frameWidth="433" frameHeight="763" />
+<SubTexture name="Player Idle Dance0004" x="27" y="1840" width="444" height="424" frameX="0" frameY="0" frameWidth="428" frameHeight="761" />
+<SubTexture name="Player Idle Dance0005" x="27" y="1840" width="444" height="424" frameX="0" frameY="0" frameWidth="428" frameHeight="761" />
+<SubTexture name="Player Idle Dance0006" x="520" y="1844" width="444" height="424" frameX="0" frameY="0" frameWidth="427" frameHeight="763" />
+<SubTexture name="Player Idle Dance0007" x="520" y="1844" width="444" height="424" frameX="0" frameY="0" frameWidth="427" frameHeight="763" />
+<SubTexture name="Player Idle Dance0008" x="66" y="2382" width="444" height="424" frameX="0" frameY="0" frameWidth="423" frameHeight="770" />
+<SubTexture name="Player Idle Dance0009" x="66" y="2382" width="444" height="424" frameX="0" frameY="0" frameWidth="423" frameHeight="770" />
+</TextureAtlas>
