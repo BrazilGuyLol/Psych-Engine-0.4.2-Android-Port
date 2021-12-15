@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:f0ad5a98efd22984b3e88be13a429b34:d55dc8977a05458e6fcc8a091b9fb1b8:5759250307091b9835a7c6988b3a6623$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="corrupted daddy dearest.png" width="3652" height="4520">
+    <SubTexture name="Dad idle dance0000.png" x="0" y="0" width="913" height="904"/>
+    <SubTexture name="Dad idle dance0001.png" x="913" y="0" width="913" height="904"/>
+    <SubTexture name="Dad idle dance0002.png" x="1826" y="0" width="913" height="904"/>
+    <SubTexture name="Dad idle dance0003.png" x="2739" y="0" width="913" height="904"/>
+    <SubTexture name="Dad idle dance0004.png" x="0" y="904" width="913" height="904"/>
+    <SubTexture name="Dad idle dance0005.png" x="913" y="904" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note DOWN0000.png" x="1826" y="904" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note DOWN0001.png" x="2739" y="904" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note DOWN0002.png" x="0" y="1808" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note LEFT0000.png" x="913" y="1808" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note LEFT0001.png" x="1826" y="1808" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note LEFT0002.png" x="2739" y="1808" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note RIGHT0000.png" x="0" y="2712" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note RIGHT0001.png" x="913" y="2712" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note RIGHT0002.png" x="1826" y="2712" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note UP0000.png" x="2739" y="2712" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note UP0001.png" x="0" y="3616" width="913" height="904"/>
+    <SubTexture name="Dad Sing Note UP0002.png" x="913" y="3616" width="913" height="904"/>
+</TextureAtlas>
