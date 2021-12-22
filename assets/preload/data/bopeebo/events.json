@@ -1,6 +1,6 @@
 {
-	"song": {
-		"player1": "bf",
+
+
 		"song": "Bopeebo",
 		"player2": "dad",
 		"notes": [
@@ -37,7 +37,7 @@
 						"0",
 						""
 					]
-				],
+				]
 				"mustHitSection": true
 			},
 			{
@@ -46,7 +46,7 @@
 				"mustHitSection": false
 			},
 			{
-				"lengthInSteps": 16,
+				"lengthInSteps": 
 				"sectionNotes": [
 					[
 						13890,
@@ -317,30 +317,5 @@
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			}
-		],
-		"needsVoices": true,
-		"validScore": true,
-		"bpm": 100,
-		"speed": 1.3
+.3
 	}
-}
