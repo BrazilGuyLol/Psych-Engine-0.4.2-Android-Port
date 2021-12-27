@@ -5,7 +5,7 @@
 	],
 	"dialogue_pos": "left",
 	"scale": 1.25,
-	"image": "Player_Dialogue",
+	"image": "Player_Dialogue2.0",
 	"animations": [
 		{
 			"idle_offsets": [
@@ -17,8 +17,8 @@
 				0
 			],
 			"anim": "talk",
-			"idle_name": "Player0",
-			"loop_name": "Player0"
+			"idle_name": "PlayerTalk0",
+			"loop_name": "PlayerTalk0"
 		},
 		{
 			"idle_offsets": [
@@ -30,8 +30,8 @@
 				5,
 				0
 			],
-			"idle_name": "Player0",
-			"loop_name": "Player0"
+			"idle_name": "PlayerTalk0",
+			"loop_name": "PlayerTalk0"
 		},
 		{
 			"idle_offsets": [
@@ -43,8 +43,8 @@
 				0,
 				0
 			],
-			"idle_name": "Player0",
-			"loop_name": "Player0"
+			"idle_name": "PlayerTalk0",
+			"loop_name": "PlayerTalk0"
 		},
 		{
 			"idle_offsets": [
@@ -56,8 +56,8 @@
 				-4,
 				0
 			],
-			"idle_name": "Player0",
-			"loop_name": "Player0"
+			"idle_name": "PlayerTalk0",
+			"loop_name": "PlayerTalk0"
 		}
 	]
 }
